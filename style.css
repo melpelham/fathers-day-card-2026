@@ -81,7 +81,7 @@ body {
     }
 
     100% {
-        transform: translateY(80px);
+        transform: translateY(65px);
     }
 }
 
@@ -309,7 +309,7 @@ body {
         }
 
         100% {
-            transform: translateY(80px);
+            transform: translateY(65px);
         }
     }
 
