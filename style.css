@@ -309,7 +309,7 @@ body {
         }
 
         100% {
-            transform: translateY(-65px);
+            transform: translateY(0px);
         }
     }
 
